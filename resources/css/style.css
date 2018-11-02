@@ -16,8 +16,40 @@ html {
 
 .nydesign {
   background-image: url(../images/the-flatiron-building.png);
+  color: white;
+  font-size: 23px;
 }
 
 a {
   color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#nav {
+  font-size: 18px;
+}
+
+.footer p {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+  font-weight: bold;
+}
+
+.btn-footer {
+  font-size: 14px;
 }
