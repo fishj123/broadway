@@ -1,0 +1,23 @@
+html {
+  text-align: center;
+  font-family: helvetica;
+}
+
+.header {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#title {
+  font-size: 70px;
+}
+
+.nydesign {
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+a {
+  color: white;
+}
